@@ -1,3 +1,4 @@
 # Predictive Analytics Methods
 - Neural networks
-- Decision tree
+- SVM
+- Deep learning
