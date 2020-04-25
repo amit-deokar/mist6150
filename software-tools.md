@@ -7,7 +7,7 @@
 ## Commercial Tools
 - RapidMiner
 - IBM SPSS Modeler
-- Tableau
+- Tableau & Tableau Prep
 - Trifacta Wrangler
 
 ## Open Source Tools
