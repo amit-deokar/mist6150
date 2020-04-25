@@ -6,6 +6,7 @@
 
 ## Commercial Tools
 - RapidMiner
+- IBM SPSS Modeler
 
 ## Open Source Tools
 - Weka
