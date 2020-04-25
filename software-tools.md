@@ -6,3 +6,6 @@
 
 ## Commercial Tools
 - RapidMiner
+
+## Open Source Tools
+- Weka
