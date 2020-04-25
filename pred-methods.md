@@ -2,3 +2,4 @@
 - Neural networks
 - SVM
 - Deep learning
+- Decision trees
