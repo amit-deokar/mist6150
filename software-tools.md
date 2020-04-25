@@ -9,6 +9,7 @@
 - IBM SPSS Modeler
 - Tableau & Tableau Prep
 - Trifacta Wrangler
+- Anything else?
 
 ## Open Source Tools
 - Weka
